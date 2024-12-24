@@ -3,4 +3,10 @@
   Topic: product release
   Thumbnail: meet-writea.jpg
   Content: meet-writea.md
+  Discoverable: false
+- Title: hello, world!
+  Description: get to know our blog and how it works!
+  Topic: introduction
+  Thumbnail: introduction.png
+  Content: introduction.md
   Discoverable: true
