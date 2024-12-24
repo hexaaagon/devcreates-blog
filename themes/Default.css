@@ -1,0 +1,141 @@
+/* 
+ * Blue theme for Writea
+ *
+ * Updated for a cool blue look
+ */
+
+ writea-theme-config {
+  --theme-color: #4a90e2;
+}
+
+:root {
+  color-scheme: dark;
+
+  --bs-body-color: #cfdce5;
+  --bs-body-color-rgb: 207,220,229;
+  --bs-body-bg: #141a24;
+  --bs-body-bg-rgb: 20,26,36;
+  --bs-surface-color: #d9e3ef;
+  --bs-surface-color-rgb: 217,227,239;
+  --bs-surface-bg: #1b2330;
+  --bs-surface-bg-rgb: 27,35,48;
+  --bs-surface-bg-hover: #1f2735;
+
+  --bs-emphasis-color: #fff;
+  --bs-emphasis-color-rgb: 255,255,255;
+  --bs-muted-color: #7f8c99;
+  --bs-heading-color: inherit;
+
+  --bs-primary: #4a90e2;
+  --bs-primary-hover: #5ca1eb;
+  --bs-primary-active: #6db3f4;
+  --bs-primary-subtle: #12263f;
+  --bs-primary-subtle-hover: #133049;
+  --bs-primary-subtle-active: #184167;
+  --bs-primary-emphasis: #6db3f4;
+  --bs-primary-emphasis-hover: #62aaf0;
+  --bs-primary-border-subtle: #184167;
+  --bs-primary-rgb: 74,144,226;
+  --bs-text-on-primary: #ffffff;
+
+  --bs-secondary: #8aa2bd;
+  --bs-secondary-rgb: 138,162,189;
+  --bs-secondary-hover: #9bb3cc;
+  --bs-secondary-active: #a7bed6;
+  --bs-secondary-subtle: #2a3b4d;
+  --bs-secondary-subtle-hover: #2f4559;
+  --bs-secondary-subtle-active: #3e576f;
+  --bs-secondary-emphasis: #a8bfd7;
+  --bs-secondary-emphasis-hover: #a0b8d2;
+  --bs-text-on-secondary: #fff;
+  --bs-secondary-border-subtle: #3e576f;
+
+  --bs-tertiary: #63a0d4;
+  --bs-tertiary-rgb: 99,160,212;
+  --bs-tertiary-hover: #74b0e0;
+  --bs-tertiary-active: #80bae9;
+  --bs-tertiary-subtle: #17354b;
+  --bs-tertiary-subtle-hover: #1b3f57;
+  --bs-tertiary-subtle-active: #21556f;
+  --bs-tertiary-emphasis: #80bcea;
+  --bs-tertiary-emphasis-hover: #77b5e5;
+  --bs-text-on-tertiary: #ffffff;
+  --bs-tertiary-border-subtle: #21556f;
+
+  --bs-success: #5cb85c;
+  --bs-success-rgb: 92,184,92;
+  --bs-success-hover: #69c369;
+  --bs-success-active: #73c973;
+  --bs-success-subtle: #143d14;
+  --bs-success-subtle-hover: #184818;
+  --bs-success-subtle-active: #1c551c;
+  --bs-success-emphasis: #74ca74;
+  --bs-success-emphasis-hover: #6fc76f;
+  --bs-text-on-success: #000;
+  --bs-success-border-subtle: #1c551c;
+
+  --bs-info: #57c7e6;
+  --bs-info-rgb: 87,199,230;
+  --bs-info-hover: #6fd2eb;
+  --bs-info-active: #7bd8ee;
+  --bs-info-subtle: #134653;
+  --bs-info-subtle-hover: #175263;
+  --bs-info-subtle-active: #1b657b;
+  --bs-info-emphasis: #7bd8ee;
+  --bs-info-emphasis-hover: #71d3ec;
+  --bs-text-on-info: #ffffff;
+  --bs-info-border-subtle: #1b657b;
+
+  --bs-warning: #f0ad4e;
+  --bs-warning-rgb: 240,173,78;
+  --bs-warning-hover: #f5bc6a;
+  --bs-warning-active: #f8c47c;
+  --bs-warning-subtle: #664008;
+  --bs-warning-subtle-hover: #73490b;
+  --bs-warning-subtle-active: #996113;
+  --bs-warning-emphasis: #f8c57c;
+  --bs-warning-emphasis-hover: #f7bd70;
+  --bs-text-on-warning: #000;
+  --bs-warning-border-subtle: #996113;
+
+  --bs-danger: #d9534f;
+  --bs-danger-rgb: 217,83,79;
+  --bs-danger-hover: #e06763;
+  --bs-danger-active: #e77d7a;
+  --bs-danger-subtle: #58181a;
+  --bs-danger-subtle-hover: #631d20;
+  --bs-danger-subtle-active: #842930;
+  --bs-danger-emphasis: #e77d7b;
+  --bs-danger-emphasis-hover: #e36f6d;
+  --bs-text-on-danger: #fff;
+  --bs-danger-border-subtle: #842930;
+
+  --bs-light: #f8f9fa;
+  --bs-light-rgb: 248,249,250;
+  --bs-light-hover: #f9fafa;
+  --bs-light-active: #fafafb;
+  --bs-light-subtle: #646667;
+  --bs-light-subtle-hover: #717375;
+  --bs-light-subtle-active: #969899;
+  --bs-light-emphasis: #fafafb;
+  --bs-light-emphasis-hover: #fafafb;
+  --bs-text-on-light: #000;
+  --bs-light-border-subtle: #969899;
+
+  --bs-dark: #495057;
+  --bs-dark-rgb: 73,80,87;
+  --bs-dark-hover: #40464c;
+  --bs-dark-active: #373e44;
+  --bs-dark-subtle: #0d1117;
+  --bs-dark-subtle-hover: #11151c;
+  --bs-dark-subtle-active: #14171f;
+  --bs-dark-emphasis: #737a7e;
+  --bs-dark-emphasis-hover: #6b7276;
+  --bs-text-on-dark: #fff;
+  --bs-dark-border-subtle: #14171f;
+
+  --bs-border-color: #3c4f63;
+  --bs-border-color-translucent: rgba(255, 255, 255, 0.15);
+  --bs-border-radius: 1rem;
+  --bs-border-width: 1px;
+}
