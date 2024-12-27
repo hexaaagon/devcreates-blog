@@ -10,3 +10,9 @@
   Thumbnail: introduction.png
   Content: introduction.md
   Discoverable: true
+- Title: simple ai tools 🤖
+  Description: are you a lazy developer? well here is some ai tools to help assist you!
+  Topic: ai
+  Thumbnail: ai_tools.png
+  Content: ai_tools.md
+  Discoverable: true
