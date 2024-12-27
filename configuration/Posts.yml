@@ -16,3 +16,9 @@
   Thumbnail: ai_tools.png
   Content: ai_tools.md
   Discoverable: true
+  - Title: Page of members
+  Description: This is a page of devcreates members
+  Topic: other
+  Thumbnail: 
+  Content: devcreates-members-rollcall.md
+  Discoverable: true
