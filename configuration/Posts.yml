@@ -24,5 +24,6 @@
 - Title: Rust is better than Python!? 🐍
   Description: here is why we think rust is better.
   Topic: other
+  Thumbnail: rust-python.jpg
   Content: rust-better-than-python.md
   Discoverable: true
