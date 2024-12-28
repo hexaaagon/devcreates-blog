@@ -16,9 +16,13 @@
   Thumbnail: ai_tools.png
   Content: ai_tools.md
   Discoverable: true
-  - Title: Page of members
+- Title: Page of members
   Description: This is a page of devcreates members
   Topic: other
-  Thumbnail: 
   Content: devcreates-members-rollcall.md
+  Discoverable: true
+- Title: Rust is better than Python!? 🐍
+  Description: here is why we think rust is better.
+  Topic: other
+  Content: rust-better-than-python.md
   Discoverable: true
