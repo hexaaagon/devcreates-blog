@@ -2,4 +2,4 @@ Hello! This is a little corner of the world I've carved out just for us, fellow 
 
 - Catspin
 - PlOszukiwacz (100% ~~not~~ a cat)
-  
+- Lezetho (im just a chill guy)
