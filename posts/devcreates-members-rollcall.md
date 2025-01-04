@@ -4,3 +4,5 @@ Hello! This is a little corner of the world I've carved out just for us, fellow 
 - PlOszukiwacz (100% ~~not~~ a cat)
 - Lezetho (im just a chill guy)
 - uhAlexz (im in ur walls 🥰)
+- fynnlukah (also known as "fynn")
+  
