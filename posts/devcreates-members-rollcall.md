@@ -6,3 +6,4 @@ Hello! This is a little corner of the world I've carved out just for us, fellow 
 - uhAlexz (im in ur walls 🥰)
 - fynnlukah (also known as "fynn")
 - Youssef (undertale nerd)
+- hexaa (weirdy af)
